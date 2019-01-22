@@ -1,0 +1,9 @@
+{
+  "ServerIp": "{ServerIp}",
+  "ServerPort": "{ServerPort}",
+  "ElevatorId": "{ElevatorId}",
+  "ElevatorHeartBeatSecond": "10",
+  "CallElevatorCostSecond": "12",
+  "ElevatorNo": "{ElevatorNo}"
+
+}

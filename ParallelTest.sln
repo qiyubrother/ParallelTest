@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportTestData", "ImportTestData\ImportTestData.csproj", "{D9299D09-FE17-4D9F-80C1-F7DC4D8E6711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeElevatorConfig", "MakeElevatorConfig\MakeElevatorConfig.csproj", "{AEC6B238-AE42-4E4A-A313-8BFADCC9DDFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeRobotConfig", "MakeRobotConfig\MakeRobotConfig.csproj", "{0F811184-F171-4373-B59C-F781D2B5D7B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D9299D09-FE17-4D9F-80C1-F7DC4D8E6711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9299D09-FE17-4D9F-80C1-F7DC4D8E6711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9299D09-FE17-4D9F-80C1-F7DC4D8E6711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC6B238-AE42-4E4A-A313-8BFADCC9DDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC6B238-AE42-4E4A-A313-8BFADCC9DDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC6B238-AE42-4E4A-A313-8BFADCC9DDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC6B238-AE42-4E4A-A313-8BFADCC9DDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F811184-F171-4373-B59C-F781D2B5D7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F811184-F171-4373-B59C-F781D2B5D7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F811184-F171-4373-B59C-F781D2B5D7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F811184-F171-4373-B59C-F781D2B5D7B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

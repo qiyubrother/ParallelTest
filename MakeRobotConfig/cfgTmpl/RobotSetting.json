@@ -1,0 +1,16 @@
+{
+  "Url": "{Url}",
+  "RobotSN": "{RobotSN}",
+  "CompanyTag": "{CompanyTag}",
+  "RobotMac": "00016C06A630",
+  "Nonce": "030016587326630",
+  "ModuleName": "",
+  "FromFloorNo": "{FromFloorNo}",
+  "ToFloorNo": "{ToFloorNo}",
+  "TaskTimeoutSecond": "3",
+  "RobotInElevatorSecond": "20",
+  "RobotOutElevatorSecond": "20",
+  "TaskEndExit": "True",
+  "RobotHeartBeatSecond": "10",
+  "ElevatorOpenDoorSecond": "40"
+}
