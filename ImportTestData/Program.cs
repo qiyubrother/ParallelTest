@@ -14,7 +14,7 @@ using System.Linq.Expressions;
 using System.Collections.Concurrent;
 using System.Data;
 
-namespace ImportTestData
+namespace ParallelTest
 {
 	class Program
 	{
